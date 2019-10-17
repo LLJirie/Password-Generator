@@ -1,0 +1,19 @@
+
+body {
+    background: url(../images/symphony.png)
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    color: teal;
+    font-family: Georgia, Times, "Times New Roman", serif;
+  }
+
+@media screen and (max-width: 760px) {
+    @media screen and (max-width: 480px)
