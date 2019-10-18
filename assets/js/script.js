@@ -78,20 +78,6 @@ console.log("your password is" + specialChars + numericChars + uppercaseChars + 
 
  console.log("We Made it!")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 varInputUpperCase = prompt ("Input Capital letter") ||
 varInputLowerCase = prompt ("Input lowercase letter") ||
 varInputNum = Prompt("Choose # 1 - 9") ||
